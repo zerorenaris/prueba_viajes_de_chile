@@ -6,3 +6,13 @@ h1{
     font-family: Poppins, sans-serif;
     font-weight: 300 !important;
 }
+hr.custom-width {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-img {
+    height: 150px;
+    object-fit: cover;
+  }
