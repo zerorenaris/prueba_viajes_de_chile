@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
 nav {
     font-family: Poppins, sans-serif;
 
@@ -15,4 +19,20 @@ hr.custom-width {
 .custom-img {
     height: 150px;
     object-fit: cover;
+  }
+
+  footer {
+    font-family: "poppins";
+    font-weight: lighter;
+    font-size: 24px;
+    padding: 20px 0;
+  }
+ 
+  .icono-social {
+    font-size: 24px;
+    margin-right: 10px;
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    background-color: #007bff;
   }
